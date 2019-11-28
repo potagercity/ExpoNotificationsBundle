@@ -1,9 +1,9 @@
 {
-	"name": "solvecrew/expo-notifications-bundle",
+	"name": "potagercity/expo-notifications-bundle",
 	"type": "symfony-bundle",
-	"description": "Bundle to handle the BE tasks of the push notifications service for the expo react-native Framework.",
+	"description": "Bundle to handle the BE tasks of the push notifications service for the expo react-native Framework. fork from solvecrew one",
 	"keywords": ["Expo", "Push Notifications"],
-	"homepage": "http://solvecrew.github.com",
+	"homepage": "https://potagercity.fr",
 	"license": "MIT",
 	"authors": [
 		{
@@ -13,7 +13,11 @@
 		{
 			"name": "Yannick Treichel",
 			"email": "info@solvecrew.com"
-		}
+		},
+        {
+          "name": "Alexandre PONCET",
+          "email": "alexandre.poncet@potagercity.fr"
+        }
 	],
 	"require": {
 		"php":                                ">=7.0",
